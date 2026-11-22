@@ -18,7 +18,8 @@
   "files": [
     "paseo-plugin.json",
     "index.client.tsx",
-    "OVERVIEW.md"
+    "OVERVIEW.md",
+    "assets"
   ],
   "repository": {
     "type": "git",
