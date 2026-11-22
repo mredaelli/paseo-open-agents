@@ -2,5 +2,10 @@
   "id": "open-agents",
   "name": "Open agents",
   "description": "Shows how many agents are open in each workspace, on its sidebar row.",
-  "requirements": { "paseo": ">=0.16.0" }
+  "requirements": {
+    "paseo": ">=0.16.0"
+  },
+  "media": [
+    "assets/screenshot.png"
+  ]
 }
